@@ -39,6 +39,10 @@
   <img src="https://skillicons.dev/icons?i=cloudinary" height="30"/>
 </p>
 
+## 📜 Certifications  
+🏅 **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**  
+🏅 **Oracle Redwood Application 2025 Certified Developer Associate**
+
 ## 🌐 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/hemant-s-64693734a/" target="_blank">
