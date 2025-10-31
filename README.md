@@ -5,7 +5,7 @@
 🌱 Learning **TypeScript** and **Next.js** to craft scalable and efficient applications.  
 ✨ Passionate about creating seamless user experiences and writing clean, maintainable code.
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 
 #### 💻 Frontend
 <p align="left">
