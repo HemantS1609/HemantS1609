@@ -1,7 +1,4 @@
 ### Hi there 👋 I'm Hemant
-<h3 align="center">Frontend Developer | React.js | Next.js | TypeScript | Aspiring Full Stack Developer</h3>
-
----
 
 ### 👨‍💻 About Me  
 💡 Frontend Developer with **3+ years of experience** building responsive, user-focused web applications using modern JavaScript frameworks.  
