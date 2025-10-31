@@ -12,17 +12,34 @@
 
 #### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=js" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=html" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=css" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=materialui" height="30"/>
 </p>
+
 
 #### ⚙️ Backend & API
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=express" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="30"/>
 </p>
 
 #### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=github" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="30" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=cloudinary" height="30"/>
 </p>
 
 ---
